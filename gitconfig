@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = anjakyraottiger@gmail.com
+	name = Anja Ottiger
